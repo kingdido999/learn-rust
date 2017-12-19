@@ -1,5 +1,5 @@
 [package]
-name = "hash-maps"
+name = "hash_maps"
 version = "0.1.0"
 authors = ["kingdido999 <kingdido999@gmail.com>"]
 
